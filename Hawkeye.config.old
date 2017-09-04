@@ -1,0 +1,29 @@
+{
+    "server-port" : 7777,
+    "sensor-address" : "30",
+    "imageDir" : "/home/mark/qimages",
+    "recordingOn" : 0,
+    "maxpasses" : 0,
+    "bank0-spi" : 1,
+    "bank0-i2c" : 2,
+    "bank1-spi" : 2,
+    "bank1-i2c" : 1,
+    "cameramask" : "AAAA:AAAA",
+    "cameratranslation" : "7654:3210",
+    "busSpeed" : 2000000,
+    "isJPEG" : 1,
+    "imageBufferSizeInKb" : 512,
+    "camSelectGPIO" : "60,49,117,115",
+    "resolution" : "R1600x1200",
+    "quantization" : 69,
+    "maxBurstBlockSize" : 4096,
+    "cameraTimeoutmSec" : 500,
+    "maxFifoReadAttempts" : 5,
+    "acquisitionMode" : 2,
+    "cacheImageBufferSizeInKb" : 2048
+}
+
+    
+    
+    
+    

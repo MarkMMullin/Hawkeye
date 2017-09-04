@@ -1,0 +1,7 @@
+(car '(a b))
+
+
+
+(print gdb-many-windows)
+
+(setq gdb-many-windows 't)
